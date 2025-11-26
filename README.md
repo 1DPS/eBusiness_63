@@ -30,7 +30,7 @@
 - MySQL 8.0+
 
 ## 🌐 访问地址
-- 应用默认运行在 http://localhost:8083（可在 application.properties中修改 server.port）。
+- 应用默认运行在 http://localhost:8083  （可在 application.properties中修改 server.port）。
 - 默认管理员账号和密码：`admin / admin
 
 ## 🚀 本地运行
