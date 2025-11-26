@@ -19,6 +19,8 @@
 - Spring Data JPA
 - MySQL 
 - Maven
+- thymeleaf
+- MyBatis
 - Git / GitHub
 
 ## 🚀 本地运行
