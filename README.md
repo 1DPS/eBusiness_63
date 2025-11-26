@@ -27,4 +27,4 @@
 ```bash
 git clone https://github.com/1DPS/eBusiness_63.git
 cd eBusiness_63
-./mvnw spring-boot:run
+mvn spring-boot:run
