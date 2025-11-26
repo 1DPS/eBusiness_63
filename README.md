@@ -32,11 +32,22 @@
 - 应用默认运行在 http://localhost:8083  （可在 application.properties中修改 server.port）。
 - 默认管理员账号和密码：admin / admin、
   
-🤝 贡献指南
-欢迎提交 Issue 或 Pull Request！请遵循以下规范：
-- 使用 feature/xxx 创建功能分支
-- 提交前运行 mvn clean test
-- 合并前确保无冲突
+
+## 📝 贡献指南
+欢迎提出 Issue 或 Pull Request！请遵循以下流程：
+1. Fork 本项目
+2. 创建 feature 分支：`git checkout -b feature/new-button`
+3. 提交更改：`git commit -m "Add submit button"`
+4. 推送到远程：`git push origin feature/new-button`
+5. 创建 Pull Request 到 `develop` 分支
+
+## 🙌 支持
+- Star ⭐ 本项目以支持
+- Watch 🔔 获取更新通知
+- Comment 💬 在 Issues 中讨论问题
+
+## 🤝 联系方式
+邮箱：3254957253@qq.com
 
 ## 🚀 本地运行
 ```bash
