@@ -23,11 +23,6 @@
 - MyBatis
 - Git / GitHub
 
-## 🚀 本地运行
-```bash
-git clone https://github.com/1DPS/eBusiness_63.git
-cd eBusiness_63
-mvn spring-boot:run
 
 ## ⚙️ 环境要求
 - JDK 8
@@ -37,3 +32,10 @@ mvn spring-boot:run
 ## 🌐 访问地址
 - 应用默认运行在 http://localhost:8083（可在 application.properties中修改 server.port）。
 - 默认管理员账号和密码：`admin / admin
+
+## 🚀 本地运行
+```bash
+git clone https://github.com/1DPS/eBusiness_63.git
+cd eBusiness_63
+mvn spring-boot:run
+
