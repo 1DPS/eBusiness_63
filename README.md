@@ -1,7 +1,6 @@
 # eBusiness_63
 
 一个基于 Spring Boot 的轻量级电商平台，用于学习开源协作与微服务架构实践。  
-本项目作为《开源文化运动》课程期末作业，完整体现了分支管理、社区互动与战略思考。
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
@@ -31,11 +30,18 @@
 
 ## 🌐 访问地址
 - 应用默认运行在 http://localhost:8083  （可在 application.properties中修改 server.port）。
-- 默认管理员账号和密码：admin / admin
+- 默认管理员账号和密码：admin / admin、
+  
+🤝 贡献指南
+欢迎提交 Issue 或 Pull Request！请遵循以下规范：
 
+使用 feature/xxx 创建功能分支
+提交前运行 mvn clean test
+合并前确保无冲突
 ## 🚀 本地运行
 ```bash
 git clone https://github.com/1DPS/eBusiness_63.git
 cd eBusiness_63
 mvn spring-boot:run
+
 
