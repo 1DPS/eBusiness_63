@@ -34,10 +34,10 @@
   
 🤝 贡献指南
 欢迎提交 Issue 或 Pull Request！请遵循以下规范：
-
 使用 feature/xxx 创建功能分支
 提交前运行 mvn clean test
 合并前确保无冲突
+
 ## 🚀 本地运行
 ```bash
 git clone https://github.com/1DPS/eBusiness_63.git
