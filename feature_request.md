@@ -1,8 +1,8 @@
--- name: 功能建议（Feature Request）
--- about: 提出新功能或改进点，用于教学实验需求跟踪
--- title: '[Feature] '
--- labels: enhancement, help wanted
--- assignees: ''
+- name: 功能建议（Feature Request）
+- about: 提出新功能或改进点，用于教学实验需求跟踪
+- title: '[Feature] '
+- els: enhancement, help wanted
+- assignees: ''
 
 ---
 
