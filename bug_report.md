@@ -1,8 +1,8 @@
--name: Bug 报告
--about: 报告代码问题或流程错误
--title: '[Bug] '
--labels: bug
--assignees: ''
+- name: Bug 报告
+- about: 报告代码问题或流程错误
+- title: '[Bug] '
+- labels: bug
+- assignees: ''
 
 ---
 
