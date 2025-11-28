@@ -30,8 +30,14 @@
 
 ## 🌐 访问地址
 - 应用默认运行在 http://localhost:8083  （可在 application.properties中修改 server.port）。
-- 默认管理员账号和密码：admin / admin、
-  
+- 默认管理员账号和密码：admin / admin
+
+## 🛠️ 分支管理策略
+本项目采用简化版 Git Flow：
+- `develop`: 主开发线，集成所有功能
+- `feature/*`: 功能开发分支（完成后合并到 `develop` 并删除）
+- `release/*`: 发布准备分支（完成后合并到 `master` 并删除）
+- `master`: 稳定版本线，仅接收 `release` 合并
 
 ## 📝 贡献指南
 欢迎提出 Issue 或 Pull Request！请遵循以下流程：
